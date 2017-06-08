@@ -51,7 +51,7 @@ Android device and install the app on the device and run it.
 Seshu Kumar Gandhapuneni
 Harish Yeddluri
 Vinod Kurma
-Harish Reddy Yanala
+Harish Reddy 
 Ashish Peruru
 Sridhar Yerasi
 Rakshith Anand Bootham
