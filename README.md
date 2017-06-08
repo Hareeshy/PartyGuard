@@ -47,11 +47,4 @@ generate the APK file. You can see the generated APK file in the explorer. Copy 
 
 Android device and install the app on the device and run it.
 
-###Contributors###
-Seshu Kumar Gandhapuneni
-Harish Yeddluri
-Vinod Kurma
-Harish Reddy 
-Ashish Peruru
-Sridhar Yerasi
-Rakshith Anand Bootham
+
